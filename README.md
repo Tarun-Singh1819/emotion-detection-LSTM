@@ -30,6 +30,13 @@ To develop an emotion classification system using RNNs (LSTM) that takes a sente
 - [Kaggle Link](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 - You can also find the dataset in this repo as a ZIP file.
 
+## Results
+
+- Achieved ~92% validation accuracy
+- Trained multiple models and saved the best
+
+👉 [Download my_model.h5 from Google Drive](https://drive.google.com/file/d/1gbgSh9uW0pXeRYP6lxwAhgGcoQbP9tgH/view?usp=drive_link)
+
 
 ## How to Run
 
